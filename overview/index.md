@@ -6,20 +6,20 @@ A place to keep track of everything.
 
 ## Ecovisum admin
 
-- [ ] map out monthly budget forecast to include:
+- [ ] FINANCES: map out monthly budget forecast to include:
   - [ ] SAVES timesheets
-  - [ ] add final EU pay amount
-  - [ ] add Nuremberg payment
-  - [ ] conferences and trade shows
-  - [ ] visits to clients and partners: Barcelona Nuremberg
+  - [ ] final EU pay amount
+  - [ ] DMU hours transfer
+  - [ ] Nuremberg payment
+  - [ ] reserve capital
   - [ ] freelances
   - [ ] software dev
-  - [ ] reserve capital
-- [ ] Website: impressum for Nürnburg
+  - [ ] visits to clients and partners: Barcelona Nuremberg
+  - [ ] conferences and trade shows
 - [ ] explore front-runner
-- [ ] rationlise servers
-- [ ] Verify the [EcoVisum domain name on GitHub](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/verifying-your-organizations-domain)
 - [ ] buy ecovisum.de - needs a German address
+- [ ] plan server strategy
+
 - [x] transfer website tasks (below) to that repo
 - [x] organisation on GitHub
 
@@ -27,15 +27,10 @@ A place to keep track of everything.
 
 ## SAVES admin
 
-- [ ] check email on list for TAG against EcoVisum emails
-- [ ] slides and ideas how we handle things after the project end
-- [ ] email list to Andy for TAG when checked
 - [ ] G sync all latest front/back code and branches
-- [ ] G to hand over invoices to D
-- [ ] get up to date with invoices
 - [ ] Discourse forum for all users?
 - [ ] CPI (to complete energy savings sections) deliverable Summer, Rachel to contact
-- [ ] promote [Award](https://www.dmu.ac.uk/about-dmu/news/2019/december/dmu-spin-out-company-wins-global-sustainability-award.aspx)
+
 - [x] Legacy plan mid-May, Joanna to send stuff in March
 - [x] slides and ideas for Sofia SAVES3
 
