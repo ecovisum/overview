@@ -7,3 +7,4 @@ See [all tasks](overview/)
 - [ ] put one-pager (Graeme, email 29 May) in a document on SharePoint (Rachel, email 29 May)
 - [ ] clarify distinction/clash between Ecovisum/DMU with Joanna for SAVES3
 - [ ] check dividend payments process with accountant and decide how to proceed before DMU shares issued
+- [ ] invoice SOS DMU after Joanna sends details (Worcester penmding)
