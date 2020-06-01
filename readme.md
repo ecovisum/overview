@@ -1,6 +1,6 @@
 # Ecovisum: [immediate tasks](https://daveeveritt.github.io/ecovisum-admin/)
 
-See [all tasks](overview/)
+See [all tasks](https://daveeveritt.github.io/ecovisum-admin/overview/)
 
 - [ ] ECO: check overview for outstanding tasks
 - [ ] ECO: check dividend payments process with accountant and decide how to proceed before DMU shares issued
