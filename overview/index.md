@@ -20,9 +20,6 @@ A place to keep track of everything.
 - [ ] buy ecovisum.de - needs a German address
 - [ ] plan server strategy
 
-- [x] transfer website tasks (below) to that repo
-- [x] organisation on GitHub
-
 ---
 
 ## SAVES admin
@@ -30,6 +27,8 @@ A place to keep track of everything.
 - [ ] G sync all latest front/back code and branches
 - [ ] Discourse forum for all users?
 - [ ] CPI (to complete energy savings sections) deliverable Summer, Rachel to contact
+
+---
 
 - [x] Legacy plan mid-May, Joanna to send stuff in March
 - [x] slides and ideas for Sofia SAVES3
