@@ -2,11 +2,13 @@
 
 See [all tasks](https://daveeveritt.github.io/ecovisum-admin/overview/)
 
-- [ ] ECO: check dividend payments process with accountant and decide how to proceed before DMU shares issued
+- [ ] ECO: check dividend payments notes from accountant before DMU shares issued
+- [ ] ECO: Graeme to rough out [forecast spreadsheet](https://daveeveritt.github.io/ecovisum-admin/overview/index.md#1), we decide what to retain in bank
 - [ ] ECO/EDI: write impressum for Nürnburg on website
 - [ ] SAVES: refine WG5 presentation for June 11 meeting
 - [ ] SAVES: WG4 one-pager on SharePoint (Graeme, email 29 May; Rachel, email 29 May) or make presentation
 - [ ] SAVES: invoice SOS DMU after Joanna sends details (Worcester pending)
+- [ ] SAVES: D1.3 CPI (energy savings sections) by 30 June (Rachel email 18 May)
 
 ---
 

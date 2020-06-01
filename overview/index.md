@@ -26,14 +26,8 @@ A place to keep track of everything.
 
 - [ ] G sync all latest front/back code and branches
 - [ ] Discourse forum for all users?
-- [ ] CPI (to complete energy savings sections) deliverable Summer, Rachel to contact
 
----
-
-- [x] Legacy plan mid-May, Joanna to send stuff in March
-- [x] slides and ideas for Sofia SAVES3
-
-### Summer jobs (G, D, F to share/co-dev)
+### SAVES Summer jobs (G, D, F to share)
 
 Covered by EU hours transfer from DMU, but keep track
 
@@ -67,12 +61,12 @@ Covered by EU hours transfer from DMU, but keep track
 - [Draft landing page for EDI-Net](https://github.com/DaveEveritt/edi-net-web), see [GitHub pages (dev)](https://daveeveritt.github.io/edi-net-web/) and live [edinet.ecovisum.com](http://edinet.ecovisum.com/)
 - [SAVES client (dashboard)](https://github.com/ggstuart/saves-client), live [switchoff.nus.org.uk](https://switchoff.nus.org.uk/) (Graeme owner)
 - EDI-Net (repo?) with [edinet_api_v2](https://github.com/ggstuart/edinet_api_v2), [module_edinet](https://github.com/ggstuart/module_edinet)
+- [dynamat2050](https://github.com/ggstuart/dynamat2050) (Graeme owner)
 
 ### Archive?
 
 - OUTDATED! [SAVES server ("cornice_prototype")](https://github.com/ggstuart/cornice_prototype) (Graeme owner)
 - [Documentation for SAVES dashboard development process](https://github.com/ggstuart/sso-dashboard), see [GitHub pages](https://ggstuart.github.io/sso-dashboard/) (Graeme owner)
-- include? [dynamat2050](https://github.com/ggstuart/dynamat2050) (Graeme owner)
 - include? [SMART Spaces](http://smartspaces.dmu.ac.uk), with [smartdata](https://github.com/ggstuart/smartdata), [baseload](https://github.com/ggstuart/baseload)
 
 ### Historic?
