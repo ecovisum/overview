@@ -1,4 +1,4 @@
-# Ecovisum: immediate tasks
+# Ecovisum: [immediate tasks](https://daveeveritt.github.io/ecovisum-admin/)
 
 See [all tasks](overview/)
 
