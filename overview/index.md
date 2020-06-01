@@ -22,15 +22,11 @@ A place to keep track of everything.
 
 ---
 
-## SAVES admin
-
-- [ ] G sync all latest front/back code and branches
-- [ ] Discourse forum for all users?
-
-### SAVES Summer jobs (G, D, F to share)
+## SAVES Summer jobs (G, D, F to share)
 
 Covered by EU hours transfer from DMU, but keep track
 
+- [ ] G sync all latest front/back code and branches
 - [ ] upgrade to Maria db
 - [ ] update server
 - [ ] update EU logo text with number
