@@ -10,6 +10,12 @@ See [all tasks](https://daveeveritt.github.io/ecovisum-admin/overview/)
 - [ ] SAVES: invoice SOS DMU after Joanna sends details (Worcester pending)
 - [ ] SAVES: update [D1.3 section 2.1.1](https://nusservicesltd.sharepoint.com/:w:/s/saves/EQRoJSXysPJMhX4mCZrql2UBhG0oGasmcJ8Z-kUhzlNMEg?email=graeme%40ecovisum.com&e=48UGIG) by 30 June (Rachel email 18 May)
 
+## SAVES3 timeline (approx)
+
+- Submission deadline: 10 September
+- Acceptance/rejection: March 2020
+- Start of project: June 2020
+
 ---
 
 - [x] SAVES: check that Ecovisum/DM legacy plan is complete (Joanna email 28 May)
