@@ -1,8 +1,8 @@
-# Overview for Ecovisum
+# Ecovisum: overview
+
+See [immediate tasks](https://ecovisum.github.io/ecovisum/overview/)
 
 A place to keep track of everything.
-
-https://ecovisum.github.io/overview/
 
 ---
 
@@ -19,8 +19,8 @@ https://ecovisum.github.io/overview/
   - [ ] visits to clients and partners: Barcelona Nuremberg
   - [ ] conferences and trade shows
 - [ ] explore front-runner
-- [x] buy ecovisum.de - needs a German address
 - [ ] plan server strategy
+- [x] buy ecovisum.de - needs a German address
 
 ---
 
