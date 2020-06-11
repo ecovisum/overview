@@ -2,7 +2,7 @@
 
 A place to keep track of everything.
 
-https://github.com/ecovisum/overview.git
+https://ecovisum.github.io/overview/
 
 ---
 
@@ -19,7 +19,7 @@ https://github.com/ecovisum/overview.git
   - [ ] visits to clients and partners: Barcelona Nuremberg
   - [ ] conferences and trade shows
 - [ ] explore front-runner
-- [ ] buy ecovisum.de - needs a German address
+- [x] buy ecovisum.de - needs a German address
 - [ ] plan server strategy
 
 ---
