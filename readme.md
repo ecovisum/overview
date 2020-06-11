@@ -1,6 +1,6 @@
 # Ecovisum: immediate tasks
 
-See [all tasks](https://github.com/ecovisum/overview/blob/master/overview.md)
+See [all tasks](https://github.com/ecovisum/overview/overview)
 
 - [ ] ECO: check dividend payments notes from accountant before DMU shares issued
 - [ ] ECO: Graeme to rough out [forecast spreadsheet](https://ecovisum.github.io/overview/overview#ecovisum-admin), we decide what to retain in bank
