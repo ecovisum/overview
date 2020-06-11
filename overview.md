@@ -33,7 +33,7 @@ Covered by EU hours transfer from DMU, but keep track
 - [ ] update server
 - [ ] update EU logo text with number
 - [ ] update social media links
-- [ ] delete used data for disabled
+- [ ] delete used data for disabled unis
 - [ ] remove converted files
 - [ ] cron job to delete used data
 - [ ] handle excess data frequency to daily min/monthly max
