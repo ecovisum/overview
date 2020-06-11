@@ -1,9 +1,9 @@
-# Ecovisum: [immediate tasks](https://daveeveritt.github.io/ecovisum-admin/)
+# Ecovisum: [immediate tasks](https://ecovisum.github.io/ecovisum/overview/)
 
-See [all tasks](https://daveeveritt.github.io/ecovisum-admin/overview/)
+See [all tasks](https://github.com/ecovisum/ecovisum/overview/)
 
 - [ ] ECO: check dividend payments notes from accountant before DMU shares issued
-- [ ] ECO: Graeme to rough out [forecast spreadsheet](https://daveeveritt.github.io/ecovisum-admin/overview/#ecovisum-admin), we decide what to retain in bank
+- [ ] ECO: Graeme to rough out [forecast spreadsheet](https://ecovisum.github.io/ecovisum/overview/#ecovisum-admin), we decide what to retain in bank
 - [ ] ECO/EDI: write impressum for Nürnburg on website
 - [ ] SAVES: refine WG5 presentation for June 11 meeting
 - [ ] SAVES: WG4 one-pager on SharePoint (Graeme email 29 May, Rachel email 29 May) or make presentation
