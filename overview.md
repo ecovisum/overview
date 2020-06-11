@@ -1,6 +1,6 @@
 # Ecovisum: overview
 
-See [immediate tasks](https://ecovisum.github.io/ecovisum/overview/)
+See [immediate tasks](https://ecovisum.github.io/overview/)
 
 A place to keep track of everything.
 
