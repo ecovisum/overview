@@ -55,8 +55,8 @@ Covered by EU hours transfer from DMU, but keep track
 
 ## Links to EcoVisum-related repos
 
-- [EcoVisum website](https://github.com/DaveEveritt/ecovisum-site), see [GitHub pages (dev)](https://daveeveritt.github.io/ecovisum-site/) and live [ecovisum.com](http://ecovisum.com/)
-- [Draft landing page for EDI-Net](https://github.com/DaveEveritt/edi-net-web), see [GitHub pages (dev)](https://daveeveritt.github.io/edi-net-web/) and live [edinet.ecovisum.com](http://edinet.ecovisum.com/)
+- [EcoVisum website](https://github.com/ecovisum/ecovisum-site), see [GitHub pages (dev)](https://ecovisum.github.io/ecovisum-site/) and live [ecovisum.com](http://ecovisum.com/)
+- [Draft landing page for EDI-Net](https://github.com/ecovisum/edi-net-web), see [GitHub pages (dev)](https://ecovisum.github.io/edi-net-web/) and live [edinet.ecovisum.com](http://edinet.ecovisum.com/)
 - [SAVES client (dashboard)](https://github.com/ggstuart/saves-client), live [switchoff.nus.org.uk](https://switchoff.nus.org.uk/) (Graeme owner)
 - EDI-Net (repo?) with [edinet_api_v2](https://github.com/ggstuart/edinet_api_v2), [module_edinet](https://github.com/ggstuart/module_edinet)
 - [dynamat2050](https://github.com/ggstuart/dynamat2050) (Graeme owner)
