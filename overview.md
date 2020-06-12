@@ -20,7 +20,8 @@ A place to keep track of everything.
   - [ ] conferences and trade shows
 - [ ] explore front-runner
 - [ ] plan server strategy
-- [x] buy ecovisum.de - needs a German address
+- [x] buy ecovisum.de
+- [x] move ecovisum site and edi-net entrypages to ecovisum GitHub org
 
 ---
 
