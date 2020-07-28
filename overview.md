@@ -16,10 +16,10 @@ A place to keep track of everything.
   - [ ] reserve capital
   - [ ] freelances
   - [ ] software dev
-  - [ ] visits to clients and partners: Barcelona Nuremberg
+  - [ ] visits to clients: Nuremberg
   - [ ] conferences and trade shows
-- [ ] explore front-runner
 - [ ] plan server strategy
+- [x] explore front-runner
 - [x] buy ecovisum.de
 - [x] move ecovisum site and edi-net entrypages to ecovisum GitHub org
 
@@ -47,7 +47,7 @@ Covered by EU hours transfer from DMU, but keep track
 
 ## EDI-Net admin
 
-- [ ] Data: email for/contact Spanish partners re Hadoop
+- [x] Data: email for/contact Spanish partners re Hadoop
 - [ ] Discourse: set up EDI-Net sign up screen…
 - [ ] Discourse: set up [single sign-on](https://meta.discourse.org/t/official-single-sign-on-for-discourse-sso/13045) and see [sso-for-dummies](https://meta.discourse.org/t/sso-for-dummies/50243)
 - [ ] Discourse: EDI-Net Discourse read-only API (use to update website with latest issues?)
